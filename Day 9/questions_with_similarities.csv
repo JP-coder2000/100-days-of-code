@@ -1,0 +1,598 @@
+id,qid1,qid2,question1,question2,is_duplicate,cos_BOW,q1_vector_BOW,q2_vector_BOW,q1_vector_TFIDF,q2_vector_TFIDF,cos_TFIDF
+0,1,2,What is the step by step guide to invest in share market in india?,What is the step by step guide to invest in share market?,0,0.9449111825230682,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 12 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 70)	1
+  (0, 143)	1
+  (0, 136)	2
+  (0, 16)	1
+  (0, 54)	1
+  (0, 149)	1
+  (0, 69)	1
+  (0, 61)	2
+  (0, 125)	1
+  (0, 86)	1
+  (0, 63)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 11 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 16)	1
+  (0, 54)	1
+  (0, 61)	1
+  (0, 69)	1
+  (0, 70)	1
+  (0, 86)	1
+  (0, 125)	1
+  (0, 136)	2
+  (0, 143)	1
+  (0, 149)	1
+  (0, 163)	1","{'what': 0.42364893019360184, 'is': 0.8613832988705518, 'the': 0.5148097085905791, 'step': 2.9267394020670396, 'by': 1.1167961107535471, 'guide': 1.4633697010335198, 'to': 0.6586507448164696, 'invest': 1.4633697010335198, 'in': 1.540445040947149, 'share': 1.4633697010335198, 'market': 1.666102255087602, 'india?': 1.666102255087602}","{'what': 0.42364893019360184, 'is': 0.8613832988705518, 'the': 0.5148097085905791, 'step': 2.9267394020670396, 'by': 1.1167961107535471, 'guide': 1.4633697010335198, 'to': 0.6586507448164696, 'invest': 1.4633697010335198, 'in': 0.7702225204735745, 'share': 1.4633697010335198, 'market?': 1.666102255087602}",0.8140620663993368
+1,3,4,What is the story of Kohinoor (Koh-i-Noor) Diamond?,What would happen if the Indian government stole the Kohinoor (Koh-i-Noor) diamond back?,0,0.7378647873726218,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 9 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 70)	1
+  (0, 143)	1
+  (0, 137)	1
+  (0, 103)	1
+  (0, 75)	1
+  (0, 74)	1
+  (0, 100)	1
+  (0, 34)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 7 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 34)	1
+  (0, 74)	1
+  (0, 75)	1
+  (0, 100)	1
+  (0, 143)	2
+  (0, 163)	1
+  (0, 170)	1","{'what': 0.42364893019360184, 'is': 0.8613832988705518, 'the': 0.5148097085905791, 'story': 1.666102255087602, 'of': 0.9729550745276566, 'kohinoor': 1.4633697010335198, '(koh-i-noor)': 1.4633697010335198, 'diamond?': 1.666102255087602}","{'what': 0.42364893019360184, 'would': 1.3195286648076292, 'happen': 1.666102255087602, 'if': 1.666102255087602, 'the': 1.0296194171811581, 'indian': 1.666102255087602, 'government': 1.666102255087602, 'stole': 1.666102255087602, 'kohinoor': 1.4633697010335198, '(koh-i-noor)': 1.4633697010335198, 'diamond': 1.666102255087602, 'back?': 1.666102255087602}",0.27931270569013233
+2,5,6,How can I increase the speed of my internet connection while using a VPN?,How can Internet speed be increased by hacking through DNS?,0,0.4364357804719848,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 12 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 143)	1
+  (0, 103)	1
+  (0, 57)	1
+  (0, 17)	1
+  (0, 62)	1
+  (0, 133)	1
+  (0, 99)	1
+  (0, 67)	1
+  (0, 30)	1
+  (0, 166)	1
+  (0, 155)	1
+  (0, 158)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 7 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 12)	1
+  (0, 16)	1
+  (0, 17)	1
+  (0, 57)	1
+  (0, 67)	1
+  (0, 133)	1
+  (0, 145)	1","{'how': 0.626381484247684, 'can': 0.7302011666368062, 'i': 0.6586507448164696, 'increase': 1.666102255087602, 'the': 0.5148097085905791, 'speed': 1.4633697010335198, 'of': 0.9729550745276566, 'my': 1.2079568891505243, 'internet': 1.4633697010335198, 'connection': 1.666102255087602, 'while': 1.666102255087602, 'using': 1.4633697010335198, 'a': 0.7302011666368062, 'vpn?': 1.666102255087602}","{'how': 0.626381484247684, 'can': 0.7302011666368062, 'internet': 1.4633697010335198, 'speed': 1.4633697010335198, 'be': 1.0397207708399179, 'increased': 1.666102255087602, 'by': 1.1167961107535471, 'hacking': 1.666102255087602, 'through': 1.3195286648076292, 'dns?': 1.666102255087602}",0.26410262072169255
+3,7,8,Why am I mentally very lonely? How can I solve it?,"Find the remainder when [math]23^{24}[/math] is divided by 24,23?",0,0.0,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 9 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 57)	1
+  (0, 17)	1
+  (0, 168)	1
+  (0, 2)	1
+  (0, 92)	1
+  (0, 156)	1
+  (0, 80)	1
+  (0, 130)	1
+  (0, 71)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 5 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 16)	1
+  (0, 43)	1
+  (0, 70)	1
+  (0, 143)	1
+  (0, 164)	1","{'why': 1.0397207708399179, 'am': 1.4633697010335198, 'i': 1.3173014896329391, 'mentally': 1.666102255087602, 'very': 1.666102255087602, 'lonely?': 1.666102255087602, 'how': 0.626381484247684, 'can': 0.7302011666368062, 'solve': 1.666102255087602, 'it?': 1.666102255087602}","{'find': 1.2079568891505243, 'the': 0.5148097085905791, 'remainder': 1.666102255087602, 'when': 1.3195286648076292, '[math]23^{24}[/math]': 1.666102255087602, 'is': 0.8613832988705518, 'divided': 1.666102255087602, 'by': 1.1167961107535471, '24,23?': 1.666102255087602}",0.0
+4,9,10,"Which one dissolve in water quikly sugar, salt, methane and carbon di oxide?",Which fish would survive in salt water?,0,0.4961389383568338,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 13 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 61)	1
+  (0, 165)	1
+  (0, 105)	1
+  (0, 36)	1
+  (0, 161)	1
+  (0, 113)	1
+  (0, 140)	1
+  (0, 120)	1
+  (0, 93)	1
+  (0, 4)	1
+  (0, 21)	1
+  (0, 33)	1
+  (0, 106)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 5 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 61)	1
+  (0, 120)	1
+  (0, 161)	1
+  (0, 165)	1
+  (0, 170)	1","{'which': 1.0397207708399179, 'one': 1.666102255087602, 'dissolve': 1.666102255087602, 'in': 0.7702225204735745, 'water': 1.666102255087602, 'quikly': 1.666102255087602, 'sugar,': 1.666102255087602, 'salt,': 1.666102255087602, 'methane': 1.666102255087602, 'and': 0.9729550745276566, 'carbon': 1.666102255087602, 'di': 1.666102255087602, 'oxide?': 1.666102255087602}","{'which': 1.0397207708399179, 'fish': 1.666102255087602, 'would': 1.3195286648076292, 'survive': 1.666102255087602, 'in': 0.7702225204735745, 'salt': 1.666102255087602, 'water?': 1.666102255087602}",0.07971903584494125
+5,11,12,Astrology: I am a Capricorn Sun Cap moon and cap rising...what does that say about me?,"I'm a triple Capricorn (Sun, Moon and ascendant in Capricorn) What does this say about me?",1,0.6726727939963125,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 14 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 2)	1
+  (0, 4)	1
+  (0, 9)	1
+  (0, 20)	1
+  (0, 141)	1
+  (0, 19)	2
+  (0, 95)	1
+  (0, 118)	1
+  (0, 38)	1
+  (0, 142)	1
+  (0, 122)	1
+  (0, 1)	1
+  (0, 89)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 10 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 1)	1
+  (0, 4)	1
+  (0, 20)	2
+  (0, 38)	1
+  (0, 61)	1
+  (0, 89)	1
+  (0, 95)	1
+  (0, 122)	1
+  (0, 141)	1
+  (0, 163)	1","{'astrology:': 1.666102255087602, 'i': 0.6586507448164696, 'am': 1.4633697010335198, 'a': 0.7302011666368062, 'capricorn': 1.4633697010335198, 'sun': 1.666102255087602, 'cap': 3.332204510175204, 'moon': 1.4633697010335198, 'and': 0.9729550745276566, 'rising...what': 1.666102255087602, 'does': 1.0397207708399179, 'that': 1.3195286648076292, 'say': 1.4633697010335198, 'about': 1.3195286648076292, 'me?': 1.4633697010335198}","{""i'm"": 1.666102255087602, 'a': 0.7302011666368062, 'triple': 1.666102255087602, 'capricorn': 1.4633697010335198, '(sun,': 1.666102255087602, 'moon': 1.4633697010335198, 'and': 0.9729550745276566, 'ascendant': 1.666102255087602, 'in': 0.7702225204735745, 'capricorn)': 1.666102255087602, 'what': 0.42364893019360184, 'does': 1.0397207708399179, 'this': 1.666102255087602, 'say': 1.4633697010335198, 'about': 1.3195286648076292, 'me?': 1.4633697010335198}",0.3863493089531681
+6,13,14,Should I buy tiago?,What keeps childern active and far from phone and video games?,0,0.0,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 3 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 126)	1
+  (0, 15)	1
+  (0, 146)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 3 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 4)	2
+  (0, 48)	1
+  (0, 163)	1","{'should': 1.2079568891505243, 'i': 0.6586507448164696, 'buy': 1.666102255087602, 'tiago?': 1.666102255087602}","{'what': 0.42364893019360184, 'keeps': 1.666102255087602, 'childern': 1.666102255087602, 'active': 1.666102255087602, 'and': 1.9459101490553132, 'far': 1.666102255087602, 'from': 1.3195286648076292, 'phone': 1.666102255087602, 'video': 1.666102255087602, 'games?': 1.666102255087602}",0.0
+7,15,16,How can I be a good geologist?,What should I do to be a great geologist?,1,0.36514837167011077,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 5 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 57)	1
+  (0, 17)	1
+  (0, 12)	1
+  (0, 51)	1
+  (0, 49)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 6 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 12)	1
+  (0, 37)	1
+  (0, 49)	1
+  (0, 126)	1
+  (0, 149)	1
+  (0, 163)	1","{'how': 0.626381484247684, 'can': 0.7302011666368062, 'i': 0.6586507448164696, 'be': 1.0397207708399179, 'a': 0.7302011666368062, 'good': 1.666102255087602, 'geologist?': 1.4633697010335198}","{'what': 0.42364893019360184, 'should': 1.2079568891505243, 'i': 0.6586507448164696, 'do': 0.6586507448164696, 'to': 0.6586507448164696, 'be': 1.0397207708399179, 'a': 0.7302011666368062, 'great': 1.666102255087602, 'geologist?': 1.4633697010335198}",0.4846000600536071
+8,17,18,When do you use シ instead of し?,"When do you use ""&"" instead of ""and""?",0,0.9258200997725515,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 6 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 103)	1
+  (0, 164)	1
+  (0, 37)	1
+  (0, 171)	1
+  (0, 153)	1
+  (0, 64)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 7 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 4)	1
+  (0, 37)	1
+  (0, 64)	1
+  (0, 103)	1
+  (0, 153)	1
+  (0, 164)	1
+  (0, 171)	1","{'when': 1.3195286648076292, 'do': 0.6586507448164696, 'you': 1.3195286648076292, 'use': 1.4633697010335198, 'シ': 1.666102255087602, 'instead': 1.4633697010335198, 'of': 0.9729550745276566, 'し?': 1.666102255087602}","{'when': 1.3195286648076292, 'do': 0.6586507448164696, 'you': 1.3195286648076292, 'use': 1.4633697010335198, '""&""': 1.666102255087602, 'instead': 1.4633697010335198, 'of': 0.9729550745276566, '""and""?': 1.666102255087602}",0.6222619484808558
+9,19,20,Motorola (company): Can I hack my Charter Motorolla DCX3400?,How do I hack Motorola DCX3400 for free internet?,0,0.4008918628686365,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 8 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 17)	1
+  (0, 99)	1
+  (0, 96)	1
+  (0, 28)	1
+  (0, 56)	1
+  (0, 25)	1
+  (0, 97)	1
+  (0, 32)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 7 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 32)	1
+  (0, 37)	1
+  (0, 45)	1
+  (0, 56)	1
+  (0, 57)	1
+  (0, 67)	1
+  (0, 96)	1","{'motorola': 1.4633697010335198, '(company):': 1.666102255087602, 'can': 0.7302011666368062, 'i': 0.6586507448164696, 'hack': 1.4633697010335198, 'my': 1.2079568891505243, 'charter': 1.666102255087602, 'motorolla': 1.666102255087602, 'dcx3400?': 1.666102255087602}","{'how': 0.626381484247684, 'do': 0.6586507448164696, 'i': 0.6586507448164696, 'hack': 1.4633697010335198, 'motorola': 1.4633697010335198, 'dcx3400': 1.666102255087602, 'for': 1.3195286648076292, 'free': 1.666102255087602, 'internet?': 1.666102255087602}",0.28284610744698924
+10,21,22,Method to find separation of slits using fresnel biprism?,What are some of the things technicians can tell about the durability and reliability of Laptops and its components?,0,0.16169041669088863,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 9 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 149)	1
+  (0, 103)	1
+  (0, 155)	1
+  (0, 94)	1
+  (0, 43)	1
+  (0, 123)	1
+  (0, 127)	1
+  (0, 46)	1
+  (0, 14)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 8 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 1)	1
+  (0, 4)	2
+  (0, 7)	1
+  (0, 17)	1
+  (0, 103)	2
+  (0, 131)	1
+  (0, 143)	2
+  (0, 163)	1","{'method': 1.666102255087602, 'to': 0.6586507448164696, 'find': 1.2079568891505243, 'separation': 1.666102255087602, 'of': 0.9729550745276566, 'slits': 1.666102255087602, 'using': 1.4633697010335198, 'fresnel': 1.666102255087602, 'biprism?': 1.666102255087602}","{'what': 0.42364893019360184, 'are': 0.8613832988705518, 'some': 1.3195286648076292, 'of': 1.9459101490553132, 'the': 1.0296194171811581, 'things': 1.666102255087602, 'technicians': 1.666102255087602, 'can': 0.7302011666368062, 'tell': 1.666102255087602, 'about': 1.3195286648076292, 'durability': 1.666102255087602, 'and': 1.9459101490553132, 'reliability': 1.666102255087602, 'laptops': 1.666102255087602, 'its': 1.666102255087602, 'components?': 1.666102255087602}",0.07288430267318188
+11,23,24,How do I read and find my YouTube comments?,How can I see all my Youtube comments?,1,0.6324555320336758,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 8 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 57)	1
+  (0, 99)	1
+  (0, 4)	1
+  (0, 37)	1
+  (0, 43)	1
+  (0, 115)	1
+  (0, 173)	1
+  (0, 27)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 5 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 17)	1
+  (0, 27)	1
+  (0, 57)	1
+  (0, 99)	1
+  (0, 173)	1","{'how': 0.626381484247684, 'do': 0.6586507448164696, 'i': 0.6586507448164696, 'read': 1.666102255087602, 'and': 0.9729550745276566, 'find': 1.2079568891505243, 'my': 1.2079568891505243, 'youtube': 1.4633697010335198, 'comments?': 1.4633697010335198}","{'how': 0.626381484247684, 'can': 0.7302011666368062, 'i': 0.6586507448164696, 'see': 1.666102255087602, 'all': 1.666102255087602, 'my': 1.2079568891505243, 'youtube': 1.4633697010335198, 'comments?': 1.4633697010335198}",0.5290023388911683
+12,25,26,What can make Physics easy to learn?,How can you make physics easy to learn?,1,0.801783725737273,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 7 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 149)	1
+  (0, 17)	1
+  (0, 82)	1
+  (0, 107)	1
+  (0, 39)	1
+  (0, 78)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 8 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 17)	1
+  (0, 39)	1
+  (0, 57)	1
+  (0, 78)	1
+  (0, 82)	1
+  (0, 107)	1
+  (0, 149)	1
+  (0, 171)	1","{'what': 0.42364893019360184, 'can': 0.7302011666368062, 'make': 1.4633697010335198, 'physics': 1.4633697010335198, 'easy': 1.4633697010335198, 'to': 0.6586507448164696, 'learn?': 1.4633697010335198}","{'how': 0.626381484247684, 'can': 0.7302011666368062, 'you': 1.3195286648076292, 'make': 1.4633697010335198, 'physics': 1.4633697010335198, 'easy': 1.4633697010335198, 'to': 0.6586507448164696, 'learn?': 1.4633697010335198}",0.8955570410593485
+13,27,28,What was your first sexual experience like?,What was your first sexual experience?,1,0.9258200997725515,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 7 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 160)	1
+  (0, 172)	1
+  (0, 44)	1
+  (0, 124)	1
+  (0, 41)	1
+  (0, 79)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 6 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 41)	1
+  (0, 44)	1
+  (0, 124)	1
+  (0, 160)	1
+  (0, 163)	1
+  (0, 172)	1","{'what': 0.42364893019360184, 'was': 1.4633697010335198, 'your': 1.2079568891505243, 'first': 1.4633697010335198, 'sexual': 1.4633697010335198, 'experience': 1.666102255087602, 'like?': 1.666102255087602}","{'what': 0.42364893019360184, 'was': 1.4633697010335198, 'your': 1.2079568891505243, 'first': 1.4633697010335198, 'sexual': 1.4633697010335198, 'experience?': 1.666102255087602}",0.66374067034193
+14,29,30,"What are the laws to change your status from a student visa to a green card in the US, how do they compare to the immigration laws in Canada?",What are the laws to change your status from a student visa to a green card in the US? How do they compare to the immigration laws in Japan?,0,0.9883036912035245,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 21 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 143)	3
+  (0, 149)	3
+  (0, 61)	2
+  (0, 57)	1
+  (0, 37)	1
+  (0, 172)	1
+  (0, 7)	1
+  (0, 77)	2
+  (0, 24)	1
+  (0, 135)	1
+  (0, 48)	1
+  (0, 138)	1
+  (0, 157)	1
+  (0, 53)	1
+  (0, 22)	1
+  (0, 152)	1
+  (0, 144)	1
+  (0, 29)	1
+  (0, 59)	1
+  (0, 18)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 20 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 7)	1
+  (0, 22)	1
+  (0, 24)	1
+  (0, 29)	1
+  (0, 37)	1
+  (0, 48)	1
+  (0, 53)	1
+  (0, 57)	1
+  (0, 59)	1
+  (0, 61)	2
+  (0, 77)	2
+  (0, 135)	1
+  (0, 138)	1
+  (0, 143)	3
+  (0, 144)	1
+  (0, 149)	3
+  (0, 152)	1
+  (0, 157)	1
+  (0, 163)	1
+  (0, 172)	1","{'what': 0.42364893019360184, 'are': 0.8613832988705518, 'the': 1.544429125771737, 'laws': 2.9267394020670396, 'to': 1.9759522344494087, 'change': 1.4633697010335198, 'your': 1.2079568891505243, 'status': 1.4633697010335198, 'from': 1.3195286648076292, 'a': 1.4604023332736125, 'student': 1.4633697010335198, 'visa': 1.4633697010335198, 'green': 1.4633697010335198, 'card': 1.4633697010335198, 'in': 1.540445040947149, 'us,': 1.666102255087602, 'how': 0.626381484247684, 'do': 0.6586507448164696, 'they': 1.3195286648076292, 'compare': 1.4633697010335198, 'immigration': 1.4633697010335198, 'canada?': 1.666102255087602}","{'what': 0.42364893019360184, 'are': 0.8613832988705518, 'the': 1.544429125771737, 'laws': 2.9267394020670396, 'to': 1.9759522344494087, 'change': 1.4633697010335198, 'your': 1.2079568891505243, 'status': 1.4633697010335198, 'from': 1.3195286648076292, 'a': 1.4604023332736125, 'student': 1.4633697010335198, 'visa': 1.4633697010335198, 'green': 1.4633697010335198, 'card': 1.4633697010335198, 'in': 1.540445040947149, 'us?': 1.4633697010335198, 'how': 0.626381484247684, 'do': 0.6586507448164696, 'they': 1.3195286648076292, 'compare': 1.4633697010335198, 'immigration': 1.4633697010335198, 'japan?': 1.666102255087602}",0.8919036764369805
+15,31,32,What would a Trump presidency mean for current international master’s students on an F1 visa?,How will a Trump presidency affect the students presently in US or planning to study in US?,1,0.2142857142857143,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 14 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 157)	1
+  (0, 170)	1
+  (0, 151)	1
+  (0, 110)	1
+  (0, 90)	1
+  (0, 45)	1
+  (0, 31)	1
+  (0, 66)	1
+  (0, 88)	1
+  (0, 139)	1
+  (0, 104)	1
+  (0, 3)	1
+  (0, 42)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 8 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 57)	1
+  (0, 61)	2
+  (0, 110)	1
+  (0, 139)	1
+  (0, 143)	1
+  (0, 149)	1
+  (0, 151)	1
+  (0, 152)	2","{'what': 0.42364893019360184, 'would': 1.3195286648076292, 'a': 0.7302011666368062, 'trump': 1.4633697010335198, 'presidency': 1.4633697010335198, 'mean': 1.4633697010335198, 'for': 1.3195286648076292, 'current': 1.666102255087602, 'international': 1.666102255087602, 'master’s': 1.666102255087602, 'students': 1.4633697010335198, 'on': 0.9729550745276566, 'an': 1.666102255087602, 'f1': 1.666102255087602, 'visa?': 1.666102255087602}","{'how': 0.626381484247684, 'will': 1.666102255087602, 'a': 0.7302011666368062, 'trump': 1.4633697010335198, 'presidency': 1.4633697010335198, 'affect': 1.666102255087602, 'the': 0.5148097085905791, 'students': 1.4633697010335198, 'presently': 1.666102255087602, 'in': 1.540445040947149, 'us': 1.666102255087602, 'or': 1.666102255087602, 'planning': 1.666102255087602, 'to': 0.6586507448164696, 'study': 1.666102255087602, 'us?': 1.4633697010335198}",0.22322756257658455
+16,33,34,What does manipulation mean?,What does manipulation means?,1,0.8660254037844388,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 4 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 38)	1
+  (0, 90)	1
+  (0, 84)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 3 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 38)	1
+  (0, 84)	1
+  (0, 163)	1","{'what': 0.42364893019360184, 'does': 1.0397207708399179, 'manipulation': 1.4633697010335198, 'mean?': 1.666102255087602}","{'what': 0.42364893019360184, 'does': 1.0397207708399179, 'manipulation': 1.4633697010335198, 'means?': 1.666102255087602}",0.5506691106761807
+17,35,36,Why do girls want to be friends with the guy they reject?,How do guys feel after rejecting a girl?,0,0.2041241452319315,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 12 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 143)	1
+  (0, 149)	1
+  (0, 168)	1
+  (0, 12)	1
+  (0, 37)	1
+  (0, 144)	1
+  (0, 50)	1
+  (0, 159)	1
+  (0, 47)	1
+  (0, 169)	1
+  (0, 55)	1
+  (0, 117)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 2 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 37)	1
+  (0, 57)	1","{'why': 1.0397207708399179, 'do': 0.6586507448164696, 'girls': 1.666102255087602, 'want': 1.666102255087602, 'to': 0.6586507448164696, 'be': 1.0397207708399179, 'friends': 1.666102255087602, 'with': 1.666102255087602, 'the': 0.5148097085905791, 'guy': 1.666102255087602, 'they': 1.3195286648076292, 'reject?': 1.666102255087602}","{'how': 0.626381484247684, 'do': 0.6586507448164696, 'guys': 1.666102255087602, 'feel': 1.666102255087602, 'after': 1.666102255087602, 'rejecting': 1.666102255087602, 'a': 0.7302011666368062, 'girl?': 1.666102255087602}",0.023861184870316247
+18,37,38,Why are so many Quora users posting questions that are readily answered on Google?,Why do people ask Quora questions which can be answered easily by Google?,1,0.37688918072220456,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 13 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 168)	1
+  (0, 142)	1
+  (0, 7)	2
+  (0, 104)	1
+  (0, 128)	1
+  (0, 85)	1
+  (0, 114)	1
+  (0, 154)	1
+  (0, 109)	1
+  (0, 112)	1
+  (0, 116)	1
+  (0, 5)	1
+  (0, 52)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 11 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 5)	1
+  (0, 8)	1
+  (0, 12)	1
+  (0, 16)	1
+  (0, 17)	1
+  (0, 37)	1
+  (0, 52)	1
+  (0, 112)	1
+  (0, 114)	1
+  (0, 165)	1
+  (0, 168)	1","{'why': 1.0397207708399179, 'are': 1.7227665977411035, 'so': 1.666102255087602, 'many': 1.4633697010335198, 'quora': 1.4633697010335198, 'users': 1.666102255087602, 'posting': 1.666102255087602, 'questions': 1.3195286648076292, 'that': 1.3195286648076292, 'readily': 1.666102255087602, 'answered': 1.4633697010335198, 'on': 0.9729550745276566, 'google?': 1.4633697010335198}","{'why': 1.0397207708399179, 'do': 0.6586507448164696, 'people': 1.666102255087602, 'ask': 1.3195286648076292, 'quora': 1.4633697010335198, 'questions': 1.3195286648076292, 'which': 1.0397207708399179, 'can': 0.7302011666368062, 'be': 1.0397207708399179, 'answered': 1.4633697010335198, 'easily': 1.666102255087602, 'by': 1.1167961107535471, 'google?': 1.4633697010335198}",0.3810864779986937
+19,39,40,Which is the best digital marketing institution in banglore?,Which is the best digital marketing institute in Pune?,0,0.8819171036881966,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 9 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 70)	1
+  (0, 143)	1
+  (0, 61)	1
+  (0, 165)	1
+  (0, 13)	1
+  (0, 35)	1
+  (0, 87)	1
+  (0, 65)	1
+  (0, 11)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 7 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 13)	1
+  (0, 35)	1
+  (0, 61)	1
+  (0, 70)	1
+  (0, 87)	1
+  (0, 143)	1
+  (0, 165)	1","{'which': 1.0397207708399179, 'is': 0.8613832988705518, 'the': 0.5148097085905791, 'best': 1.4633697010335198, 'digital': 1.4633697010335198, 'marketing': 1.4633697010335198, 'institution': 1.666102255087602, 'in': 0.7702225204735745, 'banglore?': 1.666102255087602}","{'which': 1.0397207708399179, 'is': 0.8613832988705518, 'the': 0.5148097085905791, 'best': 1.4633697010335198, 'digital': 1.4633697010335198, 'marketing': 1.4633697010335198, 'institute': 1.666102255087602, 'in': 0.7702225204735745, 'pune?': 1.666102255087602}",0.6212297879731784
+20,41,42,Why do rockets look white?,Why are rockets and boosters painted white?,1,0.6,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 5 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 168)	1
+  (0, 37)	1
+  (0, 119)	1
+  (0, 81)	1
+  (0, 167)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 5 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 4)	1
+  (0, 7)	1
+  (0, 119)	1
+  (0, 167)	1
+  (0, 168)	1","{'why': 1.0397207708399179, 'do': 0.6586507448164696, 'rockets': 1.4633697010335198, 'look': 1.4633697010335198, 'white?': 1.4633697010335198}","{'why': 1.0397207708399179, 'are': 0.8613832988705518, 'rockets': 1.4633697010335198, 'and': 0.9729550745276566, 'boosters': 1.666102255087602, 'painted': 1.666102255087602, 'white?': 1.4633697010335198}",0.5362091202206779
+21,43,44,What's causing someone to be jealous?,What can I do to avoid being jealous of someone?,0,0.6172133998483676,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 6 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 149)	1
+  (0, 12)	1
+  (0, 23)	1
+  (0, 132)	1
+  (0, 72)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 7 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 17)	1
+  (0, 37)	1
+  (0, 72)	1
+  (0, 103)	1
+  (0, 132)	1
+  (0, 149)	1
+  (0, 163)	1","{""what's"": 1.666102255087602, 'causing': 1.666102255087602, 'someone': 1.666102255087602, 'to': 0.6586507448164696, 'be': 1.0397207708399179, 'jealous?': 1.666102255087602}","{'what': 0.42364893019360184, 'can': 0.7302011666368062, 'i': 0.6586507448164696, 'do': 0.6586507448164696, 'to': 0.6586507448164696, 'avoid': 1.666102255087602, 'being': 1.666102255087602, 'jealous': 1.666102255087602, 'of': 0.9729550745276566, 'someone?': 1.666102255087602}",0.032564748681701956
+22,45,46,What are the questions should not ask on Quora?,Which question should I ask on Quora?,0,0.5962847939999438,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 9 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 143)	1
+  (0, 126)	1
+  (0, 7)	1
+  (0, 104)	1
+  (0, 114)	1
+  (0, 112)	1
+  (0, 101)	1
+  (0, 8)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 5 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 8)	1
+  (0, 104)	1
+  (0, 114)	1
+  (0, 126)	1
+  (0, 165)	1","{'what': 0.42364893019360184, 'are': 0.8613832988705518, 'the': 0.5148097085905791, 'questions': 1.3195286648076292, 'should': 1.2079568891505243, 'not': 1.666102255087602, 'ask': 1.3195286648076292, 'on': 0.9729550745276566, 'quora?': 1.4633697010335198}","{'which': 1.0397207708399179, 'question': 1.666102255087602, 'should': 1.2079568891505243, 'i': 0.6586507448164696, 'ask': 1.3195286648076292, 'on': 0.9729550745276566, 'quora?': 1.4633697010335198}",0.5583037508586866
+23,47,48,How much is 30 kV in HP?,Where can I find a conversion chart for CC to horsepower?,0,0.0,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 7 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 70)	1
+  (0, 61)	1
+  (0, 57)	1
+  (0, 98)	1
+  (0, 0)	1
+  (0, 76)	1
+  (0, 58)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 4 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 17)	1
+  (0, 43)	1
+  (0, 45)	1
+  (0, 149)	1","{'how': 0.626381484247684, 'much': 1.4633697010335198, 'is': 0.8613832988705518, '30': 1.666102255087602, 'kv': 1.666102255087602, 'in': 0.7702225204735745, 'hp?': 1.666102255087602}","{'where': 1.666102255087602, 'can': 0.7302011666368062, 'i': 0.6586507448164696, 'find': 1.2079568891505243, 'a': 0.7302011666368062, 'conversion': 1.666102255087602, 'chart': 1.666102255087602, 'for': 1.3195286648076292, 'cc': 1.666102255087602, 'to': 0.6586507448164696, 'horsepower?': 1.666102255087602}",0.0
+24,49,50,What does it mean that every time I look at the clock the numbers are the same?,How many times a day do a clock’s hands overlap?,0,0.10660035817780521,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 14 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 143)	3
+  (0, 71)	1
+  (0, 38)	1
+  (0, 142)	1
+  (0, 7)	1
+  (0, 90)	1
+  (0, 81)	1
+  (0, 40)	1
+  (0, 147)	1
+  (0, 10)	1
+  (0, 26)	1
+  (0, 102)	1
+  (0, 121)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 4 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 26)	1
+  (0, 37)	1
+  (0, 57)	1
+  (0, 85)	1","{'what': 0.42364893019360184, 'does': 1.0397207708399179, 'it': 1.3195286648076292, 'mean': 1.4633697010335198, 'that': 1.3195286648076292, 'every': 1.666102255087602, 'time': 1.666102255087602, 'i': 0.6586507448164696, 'look': 1.4633697010335198, 'at': 1.3195286648076292, 'the': 1.544429125771737, 'clock': 1.666102255087602, 'numbers': 1.666102255087602, 'are': 0.8613832988705518, 'same?': 1.666102255087602}","{'how': 0.626381484247684, 'many': 1.4633697010335198, 'times': 1.666102255087602, 'a': 1.4604023332736125, 'day': 1.666102255087602, 'do': 0.6586507448164696, 'clock’s': 1.666102255087602, 'hands': 1.666102255087602, 'overlap?': 1.666102255087602}",0.0
+25,51,52,What are some tips on making it through the job interview process at Medicines?,What are some tips on making it through the job interview process at Foundation Medicine?,0,0.9636241116594316,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 14 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 143)	1
+  (0, 71)	1
+  (0, 7)	1
+  (0, 104)	1
+  (0, 10)	1
+  (0, 131)	1
+  (0, 148)	1
+  (0, 83)	1
+  (0, 145)	1
+  (0, 73)	1
+  (0, 68)	1
+  (0, 111)	1
+  (0, 91)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 13 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 7)	1
+  (0, 10)	1
+  (0, 68)	1
+  (0, 71)	1
+  (0, 73)	1
+  (0, 83)	1
+  (0, 104)	1
+  (0, 111)	1
+  (0, 131)	1
+  (0, 143)	1
+  (0, 145)	1
+  (0, 148)	1
+  (0, 163)	1","{'what': 0.42364893019360184, 'are': 0.8613832988705518, 'some': 1.3195286648076292, 'tips': 1.4633697010335198, 'on': 0.9729550745276566, 'making': 1.4633697010335198, 'it': 1.3195286648076292, 'through': 1.3195286648076292, 'the': 0.5148097085905791, 'job': 1.4633697010335198, 'interview': 1.4633697010335198, 'process': 1.4633697010335198, 'at': 1.3195286648076292, 'medicines?': 1.666102255087602}","{'what': 0.42364893019360184, 'are': 0.8613832988705518, 'some': 1.3195286648076292, 'tips': 1.4633697010335198, 'on': 0.9729550745276566, 'making': 1.4633697010335198, 'it': 1.3195286648076292, 'through': 1.3195286648076292, 'the': 0.5148097085905791, 'job': 1.4633697010335198, 'interview': 1.4633697010335198, 'process': 1.4633697010335198, 'at': 1.3195286648076292, 'foundation': 1.666102255087602, 'medicine?': 1.666102255087602}",0.8276698187645096
+26,53,54,What is web application?,What is the web application framework?,0,0.8944271909999159,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 4 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 163)	1
+  (0, 70)	1
+  (0, 162)	1
+  (0, 6)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 5 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 6)	1
+  (0, 70)	1
+  (0, 143)	1
+  (0, 162)	1
+  (0, 163)	1","{'what': 0.42364893019360184, 'is': 0.8613832988705518, 'web': 1.4633697010335198, 'application?': 1.666102255087602}","{'what': 0.42364893019360184, 'is': 0.8613832988705518, 'the': 0.5148097085905791, 'web': 1.4633697010335198, 'application': 1.666102255087602, 'framework?': 1.666102255087602}",0.42537531510205145
+27,55,56,Does society place too much importance on sports?,How do sports contribute to the society?,0,0.2886751345948129,"<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 8 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 38)	1
+  (0, 104)	1
+  (0, 98)	1
+  (0, 129)	1
+  (0, 108)	1
+  (0, 150)	1
+  (0, 60)	1
+  (0, 134)	1","<Compressed Sparse Row sparse matrix of dtype 'int64'
+	with 6 stored elements and shape (1, 174)>
+  Coords	Values
+  (0, 37)	1
+  (0, 57)	1
+  (0, 129)	1
+  (0, 134)	1
+  (0, 143)	1
+  (0, 149)	1","{'does': 1.0397207708399179, 'society': 1.666102255087602, 'place': 1.666102255087602, 'too': 1.666102255087602, 'much': 1.4633697010335198, 'importance': 1.666102255087602, 'on': 0.9729550745276566, 'sports?': 1.666102255087602}","{'how': 0.626381484247684, 'do': 0.6586507448164696, 'sports': 1.666102255087602, 'contribute': 1.666102255087602, 'to': 0.6586507448164696, 'the': 0.5148097085905791, 'society?': 1.666102255087602}",0.0
